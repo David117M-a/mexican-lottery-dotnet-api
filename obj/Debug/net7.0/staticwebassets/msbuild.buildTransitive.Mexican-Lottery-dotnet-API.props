@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Mexican-Lottery-dotnet-API.props" />
+</Project>
