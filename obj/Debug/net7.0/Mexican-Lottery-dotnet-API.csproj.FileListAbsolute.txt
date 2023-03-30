@@ -71,3 +71,4 @@ C:\Users\ingan\source\repos\Mexican-Lottery-dotnet-API\bin\Debug\net7.0\runtimes
 C:\Users\ingan\source\repos\Mexican-Lottery-dotnet-API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
 C:\Users\ingan\source\repos\Mexican-Lottery-dotnet-API\bin\Debug\net7.0\appsettings - Copy.Development.json
 C:\Users\ingan\source\repos\Mexican-Lottery-dotnet-API\bin\Debug\net7.0\appsettings - Copy.json
+C:\Users\ingan\source\repos\Mexican-Lottery-dotnet-API\bin\Debug\net7.0\Lottery.postman_collection.json

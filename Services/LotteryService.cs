@@ -78,6 +78,8 @@ namespace Mexican_Lottery_dotnet_API.Services
                     _context.Tables.Add(table);
                 });
 
+                await _context.SaveChangesAsync();
+
                 return tables;
             }
             catch (Exception ex)
